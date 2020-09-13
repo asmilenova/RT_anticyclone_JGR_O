@@ -1,4 +1,4 @@
-# RT_anticyclone_JGR_O
+# RT_anticyclone_JGR_Oceans
 
 Model data (subsamples) used for analyses in ‘A persistent deep anticyclonic vortex in the Rockall Trough sustained by anticyclonic vortices shed from the slope current and wintertime convection’, 2020, A. Smilenova, J. Gula, M. Le Corre, L. Houpert, Y. Reecht, JGR: Oceans
 
